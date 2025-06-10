@@ -1,0 +1,39 @@
+Rapport de performances de l'agent de génération de contre-arguments
+================================================================
+
+MÉTRIQUES GLOBALES
+------------------
+Nombre d'échantillons: 3
+Taux de succès: 100.00%
+Score global moyen: 0.641
+Temps de génération moyen: 6.955 secondes
+
+MÉTRIQUES DÉTAILLÉES
+--------------------
+Pertinence moyenne: 0.335
+Force logique moyenne: 1.000
+Persuasion moyenne: 0.387
+Originalité moyenne: 1.000
+Clarté moyenne: 0.533
+
+COMPARAISON DES TYPES DE CONTRE-ARGUMENTS
+----------------------------------------
+Meilleur type: direct_refutation (score: 0.706)
+Pire type: counter_example (score: 0.608)
+
+DÉTAILS PAR TYPE
+---------------
+Type: direct_refutation
+  Score moyen: 0.706
+  Score max: 0.706
+  Score min: 0.706
+  Écart-type: 0.000
+  Nombre d'échantillons: 1
+
+Type: counter_example
+  Score moyen: 0.608
+  Score max: 0.623
+  Score min: 0.594
+  Écart-type: 0.015
+  Nombre d'échantillons: 2
+
